@@ -1,4 +1,3 @@
-# import random
 from ellipsoid import Ellipsoid
 
 
